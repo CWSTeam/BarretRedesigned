@@ -2,7 +2,7 @@
   <html>
     <head>
      <link rel="stylesheet" type="text/css" href="framework.css">
-      <title>Barret TMS</title>
+      <title>Barret TMSg</title>
     </head>
     <body>
 		<div class="customheading">
@@ -61,8 +61,14 @@
 				<a href="https://www.facebook.com/Barret.Hilltoppers"><img src="Icons/PNG/facebook.png" /></a>
 				</div>     
       	</div>
-      	<div class="wrap">
-     			<iframe src="https://sites.google.com/a/barretmiddle.com/content/home/home-page" width="800px" height="550px"></iframe>
+      	<div class="wrap" width="800">
+      		<h1>History</h1>
+      		<p>
+					In a magnificent brick building set upon a commanding hill in the beautiful Crescent Hill neighborhood proudly stands Barret Traditional Middle School. <img src="Images/BarretFront.jpg" width="200" align="left" border="5px solid purple" /> Construction started in 1930 and was finished in 1932 by the Louisville Board of Education. It was originally called the Crescent Hill Junior High School, but before its dedication was renamed for Judge Alex G. Barret. He served on the Louisville Board of Education for five years and served as its president in 1918. He also served with great distinction as Judge of the First Division, Chancery Branch of the Jefferson Circuit Court.
+In February, 1932, Barret opened with a student body of 450 and a faculty of 20. It was considered one of the most beautiful buildings in the city. It is a modified classical style, of buff brick and Bedford Stone trimming, and occupies a seven acre campus. During the 1937 flood, Barret was used as a hospital and relief center for refugees.
+Even in the early years of its history, Barret was known for making not only scholastic headway but also in clubs and athletics. There was a Student Council, many clubs, athletic teams, and a school magazine and newspaper in its very first year, which created high school spirit which continues today.
+In 1975, with the merger of the Louisville Public Schools and the Jefferson County Public Schools, Barret Junior High School was renovated and air conditioning was added. During the summer of 1986, Barret was closed and in the fall was reopened as Barret Traditional Middle School.      		
+      		</p>
       	</div>
       	<div class="twitter">
 				<a class="twitter-timeline" href="https://twitter.com/barretjcps" data-widget-id="492013739856506881">Tweets by @barretjcps</a>

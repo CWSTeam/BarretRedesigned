@@ -14,6 +14,17 @@ div {
 .header {
 	float: left;
 }
+.announcement {
+	width: 980px;
+	height: 50px;
+	display: box;
+	margin-bottom: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	background-color: purple;
+	box-shadow: 5px 2px 4px rgba(0, 0, 0, 0.3), 3px 2px 40px rgba(0, 0, 0, 0.1) inset;
+}
 .customheading {
       border-top: solid  4px #25567B;
       border-bottom: solid  4px #25567B;
@@ -24,108 +35,145 @@ div {
       height: 150px;
       align-content: center;
 }
-.wrap {
-	border-left: solid 8px purple;
-	background-color: #E6E6E6;
-	width: 9000px;
-	height: 500px;
-   box-shadow: inset 0 0 10px #000000;
-   float: left;
+.container {
+	float: left;
+	margin-right: 10px;
 }
-.wrapinner {
-	padding-right: 4px;
-	padding-top: 4px;
-}
-.newscontainer {
-	width: 150px;
-	height: 250px;
-	padding-top: 2px;
-	padding-bottom: 4px;
-	padding-left: 6px;
-	padding-right: 6px;
+.social {
 	text-align: center;
-	border-right: solid 4px purple;
+	font-weight: bold;
+}
+.clubs tr td, .clubs tr th {
+	border-bottom: 1px solid lightgray;
+}
+.wrap {
+	float: left;
+	display: inline-block;
+	width: 800px;
 	background-color: white;
-   box-shadow: inset 0 0 10px #000000;
+	margin-right: 280px;
+	box-shadow: 5px 2px 4px rgba(0, 0, 0, 0.3), 3px 2px 40px rgba(0, 0, 0, 0.1) inset;
 }
-.newsheader {
-	padding-left: 4px;
-	padding-right: 4px;
-	border-bottom: solid 3px #25567B;
-}
-.newscontent {
-	padding-left: 4px;
-	padding-right: 4px;
-	font-size: 12px;
-	text-align: left;
-}
-.advertisement {
-	width: 439px;
-	height: 58px;
-	background-image: url(HilltopperAdd.jpg);
-	vertical-align: top;
+.twitter {
 	float: left;
+	width: 300px;
+	height: 550px;
+	background-color: white;
+	box-shadow: 5px 2px 4px rgba(0, 0, 0, 0.3), 3px 2px 40px rgba(0, 0, 0, 0.1) inset;
 }
-.blogcontainer {
-	width: 700px;
-	height 470px;
-	float: left;
+.wrap h1 {
+	text-align: center;
+	color: purple;
 }
-.adcontainer {
-	width: 439px;
-	height: 58px;
-	background-image: url(HilltopperAdd.jpg);
+.wrap p {
+	text-align: center;
+	color: purple;
+	margin-left: 6px;
+	margin-right: 6px;
 }
-/** ul {
-    float: left;
-    width: 100%;
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-}
-a {
-    float: left;
-    text-decoration: none;
-    color: white;
-    background-color: purple;
-    padding: 0.2em 0.6em;
-    border-right: 1px solid white;
-    text-align: center;
-}
-
-a:hover {
-    background-color: darkpurple;
-	 box-shadow: inset 0 0 10px #000000;
-}
-
-li {
-    display: inline;
-} */
 .sidenav {
-	width: 100px;
-	height: 500px;
+	margin-right: 20px;
+	float: left;
+	width: 160px;
+	height: auto;
 	background-color: white;
-	box-shadow:  0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
-ul.navlist {
+.sidenav ul {
+	margin: 0;
+	padding: 10px;
+	list-style-type: none;
+}
+.sidenav ul li {
+	padding-bottom: 3px;
+	margin-bottom: 10px;
+	padding: 0.2em 0.6em;
+	border: 2px solid lightgray;
+}
+.sidenav ul li:hover {
+	padding-bottom: 3px;
+	margin-bottom: 10px;
+	padding: 0.2em 0.6em;
+	border-left: 2px solid lightgray;
+	font-weight: bold;
+}
+.sidenav ul li a {
+	display: block;
+	text-decoration: none;
+	color: purple;
+}
+.sidenav ul > li > ul {
+	display: none;
+}
+.sidenav ul > li:hover > ul {
+	background-color: white;
+	font-weight: normal;
+	width: 160px;
+	display: block;
+	position: relative;
+	top: -30px;
+	left: 120px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.sidenav ul > li:hover > ul > li {
+	background-color: white;
+	font-weight: normal;
+	display: block;
+}
+.sidenav ul > li:hover > ul > li:hover {
+	background-color: white;
+	font-weight: bold;
+	display: block;
+}
+.clubs {
+	
+}
+/* 
+.sidenav ul li {
+	padding-bottom: 3px;
+	margin-bottom: 10px;
+	padding: 0.2em 0.6em;
+	border-left: 2px solid lightgray;
+}
+.sidenav ul li:hover {
+	font-weight: bold;
+}
+.sidenav ul li a {
+	padding: 0.2em 0.6em;
+	display: inline-block;
+	text-decoration: none;
+	color: purple;
+}
+*/
+/* Second Level Menu
+.sidenav ul li ul {
+	border-left: 2px solid white;
+	position: absolute;
+	display: none;
+}
+.sidenav ul li:hover ul {
+	left: 150px;
+	top: 0px;
+	display: block;
+} */
+/** ul.navlist {
 	list-style-type: none;
 	padding: 5px;
 }
 li.navitem {
-	/* display: inline; */
 	padding-bottom: 3px;
 	margin-bottom: 10px;
 }
 a.navlink {
 	display: block;
 	margin: 0 5px;
-	color: black;
-	border-left: 3px solid blue;
+	color: purple;
+	border-left: 2px solid lightgray;
 	padding: 0.2em 0.6em;
 	text-decoration: none;
+	margin-bottom: 5px;
 }
 a.navlink:hover {
-	background-color: darkpurple;
 	text-decoration: none;
 	font-weight: bold;
-}
+} **/
