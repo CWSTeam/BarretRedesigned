@@ -9,7 +9,7 @@
       </div>
       <br />
       <div class="announcement">
-			<p>There is <strong>no</strong> summer school!</p>
+			<h1>There is <strong>no</strong> summer school!</h1>
       </div>
       <div class="container">
       	<div class="sidenav">
@@ -20,7 +20,8 @@
 						<ul>
 							<li><a href="PDF/SummerReading.pdf">Summer Reading List</a></li>
 							<li><a href="PDF/bookstore.pdf">Bookstore Catalog</a></li>	
-							<li><a href="PDF/AppearanceGuidelines.pdf">Appearance Guidelines</a></li>			
+							<li><a href="PDF/AppearanceGuidelines.pdf">Appearance Guidelines</a></li>
+							<li><a href="calendar.html">Calendar</a></li>		
 						</ul>				
 					</li>
 					<li>
@@ -33,7 +34,9 @@
 					<li>
 					<a href="#">Extracurricular Activities</a>
 						<ul>
-							<li><a href="clubs.html">Clubs</a></li>			
+							<li><a href="clubs.html">Clubs</a></li>
+							<li><a href="athletics.html">Athletics</a></li>
+							<li><a href="athletics.html#requirementseligibility">Requirements & Eligibility</a></li>			
 						</ul>				
 					</li>	
 					<li><a href="blank.com">JCPS Links</a></li>
@@ -61,7 +64,7 @@
 				<a href="https://www.facebook.com/Barret.Hilltoppers"><img src="Icons/PNG/facebook.png" /></a>
 				</div>     
       	</div>
-      	<div class="wrap" width="800">
+      	<div class="wrap">
       		<h1>History</h1>
       		<p>
 					In a magnificent brick building set upon a commanding hill in the beautiful Crescent Hill neighborhood proudly stands Barret Traditional Middle School. <img src="Images/BarretFront.jpg" width="200" align="left" border="5px solid purple" /> Construction started in 1930 and was finished in 1932 by the Louisville Board of Education. It was originally called the Crescent Hill Junior High School, but before its dedication was renamed for Judge Alex G. Barret. He served on the Louisville Board of Education for five years and served as its president in 1918. He also served with great distinction as Judge of the First Division, Chancery Branch of the Jefferson Circuit Court.

@@ -9,7 +9,7 @@
       </div>
       <br />
       <div class="announcement">
-			<p>There is <strong>no</strong> summer school!</p>
+			<h1>There is <strong>no</strong> summer school!</h1>
       </div>
       <div class="container">
       	<div class="sidenav">
@@ -20,7 +20,8 @@
 						<ul>
 							<li><a href="PDF/SummerReading.pdf">Summer Reading List</a></li>
 							<li><a href="PDF/bookstore.pdf">Bookstore Catalog</a></li>	
-							<li><a href="PDF/AppearanceGuidelines.pdf">Appearance Guidelines</a></li>			
+							<li><a href="PDF/AppearanceGuidelines.pdf">Appearance Guidelines</a></li>
+							<li><a href="calendar.html">Calendar</a></li>			
 						</ul>				
 					</li>
 					<li>
@@ -33,10 +34,20 @@
 					<li>
 					<a href="#">Extracurricular Activities</a>
 						<ul>
-							<li><a href="clubs.html">Clubs</a></li>			
+							<li><a href="clubs.html">Clubs</a></li>
+							<li><a href="athletics.html">Athletics</a></li>
+							<li><a href="athletics.html#requirementseligibility">Requirements & Eligibility</a></li>			
 						</ul>				
 					</li>	
-					<li><a href="blank.com">JCPS Links</a></li>
+					<li>
+					<a href="#">JCPS Links</a>
+					<ul>
+						<li><a href="http://transportation.jefferson.kyschools.us/BusFinder/">Bus Finder</a></li>
+						<li><a href="http://www.jefferson.k12.ky.us/">JCPS Home</a></li>
+						<li><a href="http://www.jefferson.k12.ky.us/Calendars/Calendar.html">JCPS Calendar</a></li>
+						<li><a href="https://infinitecampus.jefferson.kyschools.us/public/portal/jcps.jsp">Parent Portal</a></li>
+						<li><a href="https://www.schoolpaymentsolutions.com/">Online Meal Payments</a></li>					
+					</ul>
 					<li><a href="blank.com">Library Services</a></li>
 					<li><a href="blank.com">PTSA & SBDM</a></li>
 					<li>
@@ -59,10 +70,16 @@
 				<p>Follow us on: </p>
 				<a href="https://twitter.com/barretjcps"><img src="Icons/PNG/twitter2.png" /></a>
 				<a href="https://www.facebook.com/Barret.Hilltoppers"><img src="Icons/PNG/facebook.png" /></a>
+				<br />
+				<a href="http://statcounter.com/p6466463/summary/?account_id=235097&login_id=4&code=55a5df27851ba9c1f4e7e270b7860d5f&guest_login=1&project_id=6466463">View Stats</a>
 				</div>     
       	</div>
       	<div class="wrap">
      			<iframe src="https://sites.google.com/a/barretmiddle.com/content/home/home-page" width="800px" height="550px"></iframe>
+      	</div>
+      	<div class="twitter">
+				<a class="twitter-timeline" href="https://twitter.com/barretjcps" data-widget-id="492013739856506881">Tweets by @barretjcps</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       	</div>
       </div>
     </body>

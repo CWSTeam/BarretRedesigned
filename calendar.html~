@@ -2,7 +2,7 @@
   <html>
     <head>
      <link rel="stylesheet" type="text/css" href="framework.css">
-      <title>Barret TMSg</title>
+      <title>Barret TMS</title>
     </head>
     <body>
 		<div class="customheading">
@@ -21,7 +21,7 @@
 							<li><a href="PDF/SummerReading.pdf">Summer Reading List</a></li>
 							<li><a href="PDF/bookstore.pdf">Bookstore Catalog</a></li>	
 							<li><a href="PDF/AppearanceGuidelines.pdf">Appearance Guidelines</a></li>
-							<li><a href="calendar.html">Calendar</a></li>		
+							<li><a href="calendar.html">Calendar</a></li>			
 						</ul>				
 					</li>
 					<li>
@@ -53,8 +53,8 @@
 					<li>
 					<a href="#">Issues</a>
 						<ul>
-							<li><a href="mailto:stephen.seay@jefferson.kyschools.us">Locker Issue?</a></li>
-							<li><a href="http://jcps.jefferson.k12.ky.us/section/content/default.asp?WCI=pgDisplay_Quiz&WCE=take&WCU=CRSCNT&ENTRY_ID=7A523DF10A374FECB3E02A8350211D41">Report Bullying</a></li>			
+							<li><a href="blank.com">Locker Issue?</a></li>
+							<li><a href="blank.com">Report Bullying</a></li>			
 						</ul>					
 					</li>		
 				</ul>
@@ -62,16 +62,12 @@
 				<p>Follow us on: </p>
 				<a href="https://twitter.com/barretjcps"><img src="Icons/PNG/twitter2.png" /></a>
 				<a href="https://www.facebook.com/Barret.Hilltoppers"><img src="Icons/PNG/facebook.png" /></a>
+				<br />
+				<a href="http://statcounter.com/p6466463/summary/?account_id=235097&login_id=4&code=55a5df27851ba9c1f4e7e270b7860d5f&guest_login=1&project_id=6466463">View Stats</a>
 				</div>     
       	</div>
       	<div class="wrap">
-      		<h1>History</h1>
-      		<p>
-					In a magnificent brick building set upon a commanding hill in the beautiful Crescent Hill neighborhood proudly stands Barret Traditional Middle School. <img src="Images/BarretFront.jpg" width="200" align="left" border="5px solid purple" /> Construction started in 1930 and was finished in 1932 by the Louisville Board of Education. It was originally called the Crescent Hill Junior High School, but before its dedication was renamed for Judge Alex G. Barret. He served on the Louisville Board of Education for five years and served as its president in 1918. He also served with great distinction as Judge of the First Division, Chancery Branch of the Jefferson Circuit Court.
-In February, 1932, Barret opened with a student body of 450 and a faculty of 20. It was considered one of the most beautiful buildings in the city. It is a modified classical style, of buff brick and Bedford Stone trimming, and occupies a seven acre campus. During the 1937 flood, Barret was used as a hospital and relief center for refugees.
-Even in the early years of its history, Barret was known for making not only scholastic headway but also in clubs and athletics. There was a Student Council, many clubs, athletic teams, and a school magazine and newspaper in its very first year, which created high school spirit which continues today.
-In 1975, with the merger of the Louisville Public Schools and the Jefferson County Public Schools, Barret Junior High School was renovated and air conditioning was added. During the summer of 1986, Barret was closed and in the fall was reopened as Barret Traditional Middle School.      		
-      		</p>
+				<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=500&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=barretmiddle.com_0utr8152rp13o33pv6hhadit6s%40group.calendar.google.com&amp;color=%232F6309&amp;src=Jcps.Webmaster%40jefferson.kyschools.us&amp;color=%232952A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23853104&amp;ctz=America%2FNew_York" style=" border: solid 1px #777;" width="800" height="530" frameborder="0" scrolling="no"></iframe>
       	</div>
       	<div class="twitter">
 				<a class="twitter-timeline" href="https://twitter.com/barretjcps" data-widget-id="492013739856506881">Tweets by @barretjcps</a>

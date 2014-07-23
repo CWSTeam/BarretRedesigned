@@ -75,7 +75,7 @@ div {
 	float: left;
 	width: 160px;
 	height: auto;
-	background-color: white;
+	background-color: purple;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
 .sidenav ul {
@@ -99,7 +99,7 @@ div {
 .sidenav ul li a {
 	display: block;
 	text-decoration: none;
-	color: purple;
+	color: white;
 }
 .sidenav ul > li > ul {
 	display: none;
